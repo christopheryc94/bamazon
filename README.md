@@ -12,3 +12,5 @@ If there is enough stock for the order request, a function will run to process t
 update the available stock in the database. 
 
 After every order the customer will be asked if they would wish to continue to shop or exit out of the application. 
+
+Video walkthrough to show the application works! https://youtu.be/ASZHfIgT-DI
